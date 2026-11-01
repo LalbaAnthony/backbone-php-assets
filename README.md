@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/borreze/borreze-assets/main/blazon/blazon.svg" alt="Borrèze Logo" width="150"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LalbaAnthony/backbone-php-assets/main/.github/source/logo-lockup/backbone-php-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LalbaAnthony/backbone-php-assets/main/.github/source/logo-lockup/backbone-php-light.svg">
+    <img alt="Backbone PHP" src="https://raw.githubusercontent.com/LalbaAnthony/backbone-php-assets/main/.github/source/logo-lockup/backbone-php-dark.svg" width="350" height="70" style="max-width: 100%;">
+  </picture>
 </p>
-<br>
 
-# Borrèze assets
-
-Versionned assets for the Borrèze project.
+<p align="center">
+  A utility-first PHP framework for rapidly building custom web applications.
+</p>
 
 ---
+
+Versionned assets for the Backbone PHP project.
 
 ## 📝 - License
 

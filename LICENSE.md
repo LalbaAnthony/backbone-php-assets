@@ -1,0 +1,4 @@
+Copyright © 2026 Anthony Lalba
+All rights reserved.
+This software and its source code may not be copied, modified, distributed,
+or used without explicit written permission from the copyright holder.
